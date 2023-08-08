@@ -1,4 +1,4 @@
-|-----------------------------------------------------|
+|---------------------------------------------------------|
 Hello, I'm BPEMEHHO or skvooznyak, many people know me as a server
 developer and technical players in minecraft. I've come across a
 share of my modpack extremely often, but previously I couldn't do
@@ -6,4 +6,4 @@ it, it was like an unsorted pile of garbage. Recently, I got a
 motivation, and I still decided to post this optimizing assembly 
 for everyone. It will be constantly mentioned and each of you will
 see information about the new build right in the game.
-|-----------------------------------------------------|
+|---------------------------------------------------------|
