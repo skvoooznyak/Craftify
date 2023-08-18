@@ -1,26 +1,14 @@
 |---------------------------------------------------------|
-Hello, I'm BPEMEHHO or skvooznyak, many people know me as a server
-developer and technical players in minecraft. I've come across a
-share of my modpack extremely often, but previously I couldn't do
-it, it was like an unsorted pile of garbage. Recently, I got a
-motivation, and I still decided to post this optimizing assembly 
-for everyone. It will be constantly mentioned and each of you will
-see information about the new build right in the game.
+Fixed: 
+- Mod list crash
+- Main menu bugs
 |---------------------------------------------------------|
-Disclaimer!
-
-This build contains only legal mods for most servers, 
-later I will post a link to additional technical mods.
+Added:
+- Custom server on main menu
+- More modpacks and extra features
 |---------------------------------------------------------|
-Top-level optimization and fast access to servers are 
-already available, which I can recommend in the long run.
+Deleted: 
+- Bozon
 |---------------------------------------------------------|
-In the future, I plan to develop this assembly by adding more 
-and more new modifications and graphical changes 
-to the UI, as well as localization into all languages close to us
-|---------------------------------------------------------|
-
-I express my deep gratitude to everyone who supported me,
-be sure to join the discord. 
-
 Thank you all and enjoy the game!
+|---------------------------------------------------------|
