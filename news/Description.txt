@@ -6,9 +6,10 @@ Fixed:
 Added:
 - Custom server on main menu
 - More modpacks and extra features
+- Bluedge server
 |---------------------------------------------------------|
 Deleted: 
-- Bozon
+- Bozon server
 |---------------------------------------------------------|
 Thank you all and enjoy the game!
 |---------------------------------------------------------|
